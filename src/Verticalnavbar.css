@@ -1,0 +1,75 @@
+.verticalnavbar {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: flex-start;
+    padding: 8px 0px;
+    width: 1500px;
+    height: 64px;
+    background: #F4F5FA;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+    }
+    
+    .Search{ 
+    position: absolute;
+    left: 10%;
+    right: 80%;
+    top: 3%;
+    bottom: 10%;
+    }
+    
+    .US{
+     position: absolute;
+    left: 82.9%;
+    right: 5%;
+    top: 3%;
+    bottom: 10%;
+    
+    }
+    
+    .Sleep{
+      position: absolute;
+      left: 86.5%;
+      right:5%;
+      top: 3%;
+      bottom: 10%;
+    }
+    
+    .Notification{
+      position: absolute;
+    left: 89.5%;
+    right: 5%;
+    top: 3%;
+    bottom: 10%;
+    
+    }
+    
+    .Nav{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 0px;
+    position: absolute;
+    left:92%;
+    right: 5%;
+    top: 2%;
+    bottom: 10%;
+    background: url;
+    border-radius: 64px;
+    }
+    
+    .Badge{
+  
+        position: absolute;
+        left: 94%;
+        right: 0%;
+        top: 5%;
+        bottom: 3%;
+        background: #56CA00;
+       
+
+        }
+            

@@ -1,0 +1,134 @@
+.menudrawer {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 5px 8px 0px;
+    width: 68px;
+    height: 983px;
+    background: #F4F5FA;
+    flex: none;
+    order: 1;
+    flex-grow: 1;
+    }
+
+   
+
+    .Fflower{
+        position: absolute;
+        left: 2%;
+        right: 90%;
+        top: 3%;
+        bottom: 10%;
+        }
+        
+        .Sflower{
+        position: absolute;
+        left: 2%;
+        right: 90%;
+        top: 3%;
+        bottom: 10%;
+        }
+        
+        .Tflower{ 
+        position: absolute;
+        left: 1.7%;
+        right: 90%;
+        top: 3.7%;
+        bottom: 20%;
+        }
+        
+        .Lflower{
+        position: absolute;
+        left: 2.5%;
+        right: 90%;
+        top: 2.5%;
+        bottom: 20%;
+        }
+
+         .Home{
+            position: absolute;
+            left: 2%;
+            right: 10%;
+            top: 9%;
+            bottom: 20%;
+            } 
+
+        .line{
+            width: 300px;
+            height: 0px;
+            border: 1px solid rgba(58, 53, 65, 0.12);
+            flex: none;
+            order: 1;
+            flex-grow: 0;
+            }
+                
+             
+             .Contact{
+              position: absolute;
+              left: 2%;
+              right: 10%;
+              top: 17%;
+              bottom: 20%;
+            } 
+            
+            .Calendar{
+              position: absolute;
+            left: 2%;
+            right: 10%;
+            top: 22%;
+            bottom: 20%;
+            }
+            
+            .Person{
+              position: absolute;                                          
+              left: 2%;
+              right: 100%;
+              top: 27%;
+              bottom: 20%;
+              color: rgba(58, 53, 65, 0.42);
+            /* display: flex;
+            flex-direction: row;
+            align-items: center;
+            padding: 8px 7px 8px 22px;
+            width: 20px;
+            height: 20px;
+             background: #2684FF; 
+            box-shadow: 0px 4px 8px -4px rgba(58, 53, 65, 0.42);
+            border-radius: 0px 50px 50px 0px;
+            flex: none;
+            order: 2;
+            flex-grow: 0; */
+            }
+            
+            .Below{
+              
+            position: absolute;
+            left: 2%;
+            right: 10%;
+            top: 32%;
+            bottom: 10%;
+            }
+            .Grid {
+              position: absolute;
+            left: 2%;
+            right: 10%;
+            top: 37%;
+            bottom: 10%;
+            }
+            
+            .Message{
+              
+            position: absolute;
+            left: 2%;
+            right: 10%;
+            top: 47%;
+            bottom: 10%;
+            }
+            .Setting{
+  
+                position: absolute;
+                left: 2%;
+                right: 90%;
+                top: 91%;
+                bottom: 10%;
+                }
